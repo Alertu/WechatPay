@@ -2,7 +2,7 @@
 
 
 
-###### 建议使用EasyWechat
+##### 建议使用[EasyWechat](https://easywechat.com/ 'EasyWechat')
 
 ```php
 /**
